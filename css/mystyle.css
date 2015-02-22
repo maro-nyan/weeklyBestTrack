@@ -1,0 +1,72 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family:'Lucida Grande',
+				'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3',
+				'Meiryo', 'メイリオ', 'sans-serif';
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	background-color: White;
+	height: 100%;
+}
+
+.twitter_button {
+	text-align: center;
+	padding-top: 18%;
+}
+
+#wrapper {
+	height: 100%;
+
+}
+
+#headder {
+	height: 32%;
+}
+
+#sign_in_twitter {
+	height: 30%;
+}
+
+#description {
+	background-color: #1A1A1A;
+	color: #ffffff;
+	font-size: 9pt;
+	line-height: 9.5pt;
+	height: 40%;
+}
+
+.margin10 {
+	margin: 15%;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#footer {
+	font-size: 11pt;
+	color: #ffffff;
+	background-color: #1A1A1A;
+	text-align: center;
+	line-height: 18pt;
+}
+
+#title_div {
+	opacity: 0.7;
+	background-color: #000000;
+	position: absolute;
+	top: 2%;
+	left: 62%;
+	width: 25%;
+	height: 25%;
+}
+
+#title_div img {
+	position: absolute;
+	top: 15%;
+	left: 10%;
+}
